@@ -11,3 +11,13 @@ Model Selection: Naive Bais
 Accuracy metrices: Confusion Text Data
 
 This project is inspired by Krish Naik playlist on NLP.
+
+# Project 2 - Stock Sentiment Analysis
+This project based on movement of stock based on the news headlines. 
+Its a binary classification problem, 
+class 0: Stock price stayed same or decreased :: class 1: Stock price Increases
+
+Here again bag of word technique has been used and the model selected is random forecast classifier.
+Accuracy metrices: confusion_matrix, accuracy_score
+
+This project is inspired by Krish Naik playlist on NLP.
