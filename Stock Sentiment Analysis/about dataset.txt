@@ -1,0 +1,4 @@
+1. The dataset in consideration is a combination of the world news and stock price shifts available on Kaggle.
+2. There are 25 columns of top news headlines for each day in the data frame.
+3. Labels are based on the Dow Jones Industrial Average stock index.
+4. Class 1: Stock price Increases :: Class 0: Stock price stayed same or decreased
